@@ -1,4 +1,4 @@
-.slideinEffect {
+#slideinEffect {
     animation-duration: 2s;
     animation: slidein;
   }
